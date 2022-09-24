@@ -1,0 +1,12 @@
+.user-container{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.user-container button{
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
